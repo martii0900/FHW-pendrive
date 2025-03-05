@@ -3,6 +3,7 @@
 
 Un **pendrive** o **memoria USB** es un 📂 **dispositivo de almacenamiento portátil** que utiliza **memoria flash** y se conecta a través de un 🔌 **puerto USB**.  
 Permite **transferir, guardar y transportar datos** de manera rápida y sencilla, sin necesidad de una fuente de alimentación externa.  
+
 ![imagen](https://github.com/user-attachments/assets/77f63a67-71ea-4ff1-a9fc-917675e58a9f)
 
  
