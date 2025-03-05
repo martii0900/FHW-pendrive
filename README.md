@@ -9,13 +9,13 @@ Permite **transferir, guardar y transportar datos** de manera rápida y sencilla
  
 ## 🔹 Características principales
 
--📊 **Capacidad:** Desde unos pocos **megabytes (MB)** hasta varios **terabytes (TB)**.  
--🖥️ **Compatibilidad:** Funciona con Windows, macOS, Linux y otros sistemas operativos.  
-- ⚡ **Velocidad de transferencia**: Varía según el tipo de puerto USB (USB 2.0, 3.0, 3.1).  
-- 👜 **Portabilidad**: Compacto y fácil de transportar.  
-- 🛡️ **Durabilidad**: Resistente a golpes y caídas, gracias a la memoria flash.  
-- 🔌 **Plug and play**: No requiere instalación de controladores adicionales.  
-- ⚡ **Consumo energético bajo**: No necesita fuente de alimentación externa.
+- 📊 **Capacidad:** Desde unos pocos **megabytes (MB)** hasta varios **terabytes (TB)**.  
+- 🖥️ **Compatibilidad:** Funciona con Windows, macOS, Linux y otros sistemas operativos.  
+- ⚡ **Velocidad de transferencia:** Varía según el tipo de puerto USB (USB 2.0, 3.0, 3.1).  
+- 👜 **Portabilidad:** Compacto y fácil de transportar.  
+- 🛡️ **Durabilidad:** Resistente a golpes y caídas, gracias a la memoria flash.  
+- 🔌 **Plug and play:** No requiere instalación de controladores adicionales.  
+- ⚡ **Consumo energético bajo:** No necesita fuente de alimentación externa.
 
 ## 🔹 Tipos de Pendrive
 
