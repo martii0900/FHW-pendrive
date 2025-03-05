@@ -5,7 +5,7 @@ Un **pendrive** o **memoria USB** es un 📂 **dispositivo de almacenamiento por
 Permite **transferir, guardar y transportar datos** de manera rápida y sencilla, sin necesidad de una fuente de alimentación externa.  
 
 
-<img src="img/pendrive.webp" alt="eco_circular" width="500" height="500">
+<img src="img/pendrive.webp" alt="eco_circular" width="300" height="300">
  
 ## 🔹 Características principales
 
